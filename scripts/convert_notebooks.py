@@ -7,7 +7,7 @@ import yaml
 import sys
 
 # Specify the directory where your Jupyter Notebook files are located
-notebook_directory = "_notebooks"
+notebook_directory = "_notebooks/01-Python-Crash-Course"
 
 # Specify the destination directory for the converted Markdown files
 destination_directory = "_posts"
